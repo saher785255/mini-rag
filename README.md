@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # mini-rag-app
 
 this is a minimal implamation of the RAG model for questions and answers 
@@ -44,3 +45,7 @@ uvicorn main:app --reload --host 0.0.0.0 --port 3000
 # POSTMAN Collection
 
 Download the POSTMAN collection from [/assets/mini-rag-app.postman_collection.json](/assets/mini-rag-app.postman_collection.json)
+=======
+# mini-rag
+mini-rag project
+>>>>>>> 20ab1032f6b9d795961b9bdd13dc97aea67b8796
